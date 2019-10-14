@@ -1,0 +1,80 @@
+div.container{
+  width: 1270px;
+  min-height: 850px;
+  background-color: #1b345d;
+  margin: 0px auto;
+  }
+  div.top{
+    min-height: 100px;
+    width: 1233px;
+    margin: 15px;
+    background-color: #cf3036;
+    display: inline-block;
+    border-radius: 20px;
+  }
+  div.container div.top h1{
+    display: inline-block;
+    font-size: 50px;
+    padding-left: 20px;
+    color: #c2d2e4;
+  }
+  div.left{
+    min-height: 300px;
+    width: 250px;
+    margin-left: 15px;
+    margin-top: 15px;
+    background-color: #2a7d8c;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+  div.container div.left h3, a, li, ul{
+    color: #c2d2e4;
+    margin: 3px;
+  }
+  div.right{
+    min-height: 500px;
+    width: 950px;
+    margin: 15px;
+    background-color: black;
+    display: inline-block;
+    border-radius: 25px;
+    color: #c2d2e4;
+    vertical-align: top;
+  }
+  div.container div.right h2{
+    margin: 15px;
+    font-size: 30px;
+  }
+  div.container div.right p{
+    margin: 15px;
+    font-size: 18px;
+  }
+  div.container div.right li{
+    font-size: 16px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+  }
+  div.container div.right a{
+    color: #69DDE6;
+  }
+
+  div.bottom{
+    min-height: 40px;
+    width: 940px;
+    margin: 10px;
+    background-color: grey;
+    display: inline-block;
+    border-radius: 30px;
+  }
+    div.container div.bottom h4{
+    display: inline-block;
+    font-size: 18px;
+    padding-left: 20px;
+    color: #c2d2e4;
+  }
+    div.container div.bottom a{
+      color: #69DDE6;
+    }
